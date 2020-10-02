@@ -7,6 +7,7 @@ import ReactDOM from "react-dom";
 import * as serviceWorker from './serviceWorker';
 
 import "./styles.css";
+// will search the forms for components 
 // We create a mock list/array named Characters, from which
 // display the list in our component.
 const characters = [
